@@ -1,5 +1,7 @@
 # Employee-Management-System
-Features
+A simple Employee Management System that allows storing and displaying details of multiple employees.
+
+📌 Features
 ✅ Stores employee details
 ✅ Displays employee information
 
